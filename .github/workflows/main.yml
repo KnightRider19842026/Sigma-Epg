@@ -1,0 +1,112 @@
+name: Update TV Schedule (Sigma + ANT1)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Scrape Sigma + ANT1
+        run: |
+          USER_AGENT="Mozilla/5.0"
+          
+          # =========================
+          # INIT XML
+          # =========================
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > schedule.xml
+          echo '<tv generator-info-name="CyprusEPG">' >> schedule.xml
+          echo '  <channel id="Sigma"><display-name>Sigma TV</display-name></channel>' >> schedule.xml
+          echo '  <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>' >> schedule.xml
+          
+          process_channel () {
+            URL=$1
+            CHANNEL_ID=$2
+            OUT_HTML="${CHANNEL_ID}.html"
+            TEXT_FILE="${CHANNEL_ID}_text.txt"
+            PROGS_FILE="${CHANNEL_ID}_progs.txt"
+            
+            curl -k -L -A "$USER_AGENT" "$URL" -o "$OUT_HTML"
+            
+            sed 's/<[^>]*>/\n/g' "$OUT_HTML" | \
+            sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | \
+            sed '/^$/d' > "$TEXT_FILE"
+            
+            rm -f "$PROGS_FILE"
+            
+            while read -r line; do
+              if [[ "$line" =~ ^[0-9]{2}:[0-9]{2}$ ]]; then
+                TIME_VAL=$(echo "$line" | tr -d ':')
+                read -r TITLE_VAL
+                if [ ${#TITLE_VAL} -lt 3 ]; then read -r TITLE_VAL; fi
+                if [ ! -z "$TITLE_VAL" ]; then
+                  echo "$TIME_VAL|$TITLE_VAL" >> "$PROGS_FILE"
+                fi
+              fi
+            done < "$TEXT_FILE"
+            
+            PREV_TIME=0
+            DAY_COUNTER=0
+            
+            lines=$(cat "$PROGS_FILE" | wc -l)
+            
+            for (( i=1; i<=$lines; i++ )); do
+              current=$(sed -n "${i}p" "$PROGS_FILE")
+              next=$(sed -n "$((i+1))p" "$PROGS_FILE")
+              
+              curr_t=$(echo $current | cut -d'|' -f1)
+              curr_n=$(echo $current | cut -d'|' -f2)
+              
+              # αλλαγή ημέρας για start
+              if [ "$curr_t" -lt "$PREV_TIME" ]; then
+                DAY_COUNTER=$((DAY_COUNTER + 1))
+              fi
+              PREV_TIME=$curr_t
+              
+              START_DATE=$(date -d "+$DAY_COUNTER days" +%Y%m%d)
+              start_fmt="${START_DATE}${curr_t}00 +0300"
+              
+              if [ ! -z "$next" ]; then
+                next_t=$(echo $next | cut -d'|' -f1)
+                
+                if [ "$next_t" -lt "$curr_t" ]; then
+                  # 👉 ΠΑΕΙ ΣΤΗΝ ΕΠΟΜΕΝΗ ΜΕΡΑ
+                  STOP_DATE=$(date -d "+$((DAY_COUNTER+1)) days" +%Y%m%d)
+                else
+                  STOP_DATE=$START_DATE
+                fi
+                
+                stop_fmt="${STOP_DATE}${next_t}00 +0300"
+              else
+                # fallback (τελευταίο πρόγραμμα)
+                STOP_DATE=$START_DATE
+                stop_fmt="${STOP_DATE}235959 +0300"
+              fi
+              
+              echo "  <programme channel=\"$CHANNEL_ID\" start=\"$start_fmt\" stop=\"$stop_fmt\">" >> schedule.xml
+              echo "    <title>$curr_n</title>" >> schedule.xml
+              echo "  </programme>" >> schedule.xml
+            done
+          }
+          
+          # =========================
+          # RUN CHANNELS
+          # =========================
+          process_channel "https://www.sigmatv.com/schedule" "Sigma"
+          process_channel "https://www.ant1live.com/webtv/guide" "ANT1"
+          
+          echo '</tv>' >> schedule.xml
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add schedule.xml
+          git commit -m "EPG Fix Midnight + Merge: $(date)" || exit 0
+          git push
