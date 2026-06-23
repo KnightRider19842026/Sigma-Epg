@@ -2,66 +2,6 @@
 <tv generator-info-name="CyprusEPG">
   <channel id="Sigma"><display-name>Sigma TV</display-name></channel>
   <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>
-  <programme channel="Sigma" start="20260622060000 +0300" stop="20260622064000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260622064000 +0300" stop="20260622100500 +0300">
-    <title>Πρωτοσέλιδο</title>
-  </programme>
-  <programme channel="Sigma" start="20260622100500 +0300" stop="20260622105500 +0300">
-    <title>OUTDOOR & ΦΥΣΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20260622105500 +0300" stop="20260622133000 +0300">
-    <title>Μεσημέρι και Κάτι</title>
-  </programme>
-  <programme channel="Sigma" start="20260622133000 +0300" stop="20260622140000 +0300">
-    <title>MUNDIAL ZONE</title>
-  </programme>
-  <programme channel="Sigma" start="20260622140000 +0300" stop="20260622145500 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260622145500 +0300" stop="20260622170000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260622170000 +0300" stop="20260622174500 +0300">
-    <title>ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ SEASON 2</title>
-  </programme>
-  <programme channel="Sigma" start="20260622174500 +0300" stop="20260622175500 +0300">
-    <title>MUNDIAL EXPRESS</title>
-  </programme>
-  <programme channel="Sigma" start="20260622175500 +0300" stop="20260622182500 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20260622182500 +0300" stop="20260622192500 +0300">
-    <title>STILL STANDING</title>
-  </programme>
-  <programme channel="Sigma" start="20260622192500 +0300" stop="20260622194500 +0300">
-    <title>MUNDIAL 2026 PRE GAME</title>
-  </programme>
-  <programme channel="Sigma" start="20260622194500 +0300" stop="20260622220000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260622220000 +0300" stop="20260622225500 +0300">
-    <title>MUNDIAL 2026 POST GAME</title>
-  </programme>
-  <programme channel="Sigma" start="20260622225500 +0300" stop="20260622234500 +0300">
-    <title>MUNDIAL 2026 PRE GAME</title>
-  </programme>
-  <programme channel="Sigma" start="20260622234500 +0300" stop="20260623020000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260623020000 +0300" stop="20260623023500 +0300">
-    <title>FIFAWORLD CUP 2026 PREVIEW SERIES</title>
-  </programme>
-  <programme channel="Sigma" start="20260623023500 +0300" stop="20260623024500 +0300">
-    <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260623024500 +0300" stop="20260623050000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260623050000 +0300" stop="20260623053500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
   <programme channel="Sigma" start="20260623053500 +0300" stop="20260623054500 +0300">
     <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
   </programme>
@@ -194,13 +134,16 @@
   <programme channel="Sigma" start="20260625033500 +0300" stop="20260625034500 +0300">
     <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260625034500 +0300" stop="20260625060000 +0300">
+  <programme channel="Sigma" start="20260625034500 +0300" stop="20260625053500 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
-  <programme channel="Sigma" start="20260625060000 +0300" stop="20260625064000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  <programme channel="Sigma" start="20260625053500 +0300" stop="20260625054500 +0300">
+    <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260625064000 +0300" stop="20260625100500 +0300">
+  <programme channel="Sigma" start="20260625054500 +0300" stop="20260625075500 +0300">
+    <title>FIFAWORLD CUP 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20260625075500 +0300" stop="20260625100500 +0300">
     <title>Πρωτοσέλιδο</title>
   </programme>
   <programme channel="Sigma" start="20260625100500 +0300" stop="20260625105500 +0300">
@@ -221,10 +164,10 @@
   <programme channel="Sigma" start="20260625170000 +0300" stop="20260625174500 +0300">
     <title>ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ SEASON 2</title>
   </programme>
-  <programme channel="Sigma" start="20260625174500 +0300" stop="20260625175500 +0300">
+  <programme channel="Sigma" start="20260625174500 +0300" stop="20260625175000 +0300">
     <title>MUNDIAL EXPRESS</title>
   </programme>
-  <programme channel="Sigma" start="20260625175500 +0300" stop="20260625182500 +0300">
+  <programme channel="Sigma" start="20260625175000 +0300" stop="20260625182500 +0300">
     <title>Τομές στα Γεγονότα</title>
   </programme>
   <programme channel="Sigma" start="20260625182500 +0300" stop="20260625192500 +0300">
@@ -236,160 +179,97 @@
   <programme channel="Sigma" start="20260625194500 +0300" stop="20260625220000 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
-  <programme channel="Sigma" start="20260625220000 +0300" stop="20260625225500 +0300">
+  <programme channel="Sigma" start="20260625220000 +0300" stop="20260625221500 +0300">
     <title>MUNDIAL 2026 POST GAME</title>
   </programme>
-  <programme channel="Sigma" start="20260625225500 +0300" stop="20260625234500 +0300">
+  <programme channel="Sigma" start="20260625221500 +0300" stop="20260625224500 +0300">
     <title>MUNDIAL 2026 PRE GAME</title>
   </programme>
-  <programme channel="Sigma" start="20260625234500 +0300" stop="20260626020000 +0300">
+  <programme channel="Sigma" start="20260625224500 +0300" stop="20260626010000 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
-  <programme channel="Sigma" start="20260626020000 +0300" stop="20260626023500 +0300">
+  <programme channel="Sigma" start="20260626010000 +0300" stop="20260626013500 +0300">
+    <title>MUNDIAL 2026 POST GAME</title>
+  </programme>
+  <programme channel="Sigma" start="20260626013500 +0300" stop="20260626014500 +0300">
+    <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260626014500 +0300" stop="20260626040000 +0300">
+    <title>FIFAWORLD CUP 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20260626040000 +0300" stop="20260626043500 +0300">
     <title>FIFAWORLD CUP 2026 PREVIEW SERIES</title>
   </programme>
-  <programme channel="Sigma" start="20260626023500 +0300" stop="20260626024500 +0300">
+  <programme channel="Sigma" start="20260626043500 +0300" stop="20260626044500 +0300">
     <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260626024500 +0300" stop="20260626050000 +0300">
+  <programme channel="Sigma" start="20260626044500 +0300" stop="20260626065500 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
-  <programme channel="Sigma" start="20260626050000 +0300" stop="20260626053500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260626053500 +0300" stop="20260626054500 +0300">
-    <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260626054500 +0300" stop="20260626075500 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260626075500 +0300" stop="20260626100500 +0300">
+  <programme channel="Sigma" start="20260626065500 +0300" stop="20260626100500 +0300">
     <title>Πρωτοσέλιδο</title>
   </programme>
   <programme channel="Sigma" start="20260626100500 +0300" stop="20260626105500 +0300">
     <title>OUTDOOR & ΦΥΣΗ</title>
   </programme>
-  <programme channel="Sigma" start="20260626105500 +0300" stop="20260626133000 +0300">
+  <programme channel="Sigma" start="20260626105500 +0300" stop="20260626132500 +0300">
     <title>Μεσημέρι και Κάτι</title>
   </programme>
-  <programme channel="Sigma" start="20260626133000 +0300" stop="20260626140000 +0300">
+  <programme channel="Sigma" start="20260626132500 +0300" stop="20260626140000 +0300">
     <title>MUNDIAL ZONE</title>
   </programme>
-  <programme channel="Sigma" start="20260626140000 +0300" stop="20260626145500 +0300">
+  <programme channel="Sigma" start="20260626140000 +0300" stop="20260626143000 +0300">
     <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
   </programme>
-  <programme channel="Sigma" start="20260626145500 +0300" stop="20260626170000 +0300">
+  <programme channel="Sigma" start="20260626143000 +0300" stop="20260626151000 +0300">
+    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
+  </programme>
+  <programme channel="Sigma" start="20260626151000 +0300" stop="20260626171500 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
-  <programme channel="Sigma" start="20260626170000 +0300" stop="20260626174500 +0300">
+  <programme channel="Sigma" start="20260626171500 +0300" stop="20260626180000 +0300">
     <title>ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ SEASON 2</title>
   </programme>
-  <programme channel="Sigma" start="20260626174500 +0300" stop="20260626175000 +0300">
+  <programme channel="Sigma" start="20260626180000 +0300" stop="20260626181500 +0300">
     <title>MUNDIAL EXPRESS</title>
   </programme>
-  <programme channel="Sigma" start="20260626175000 +0300" stop="20260626182500 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20260626182500 +0300" stop="20260626192500 +0300">
+  <programme channel="Sigma" start="20260626181500 +0300" stop="20260626193000 +0300">
     <title>STILL STANDING</title>
   </programme>
-  <programme channel="Sigma" start="20260626192500 +0300" stop="20260626194500 +0300">
-    <title>MUNDIAL 2026 PRE GAME</title>
-  </programme>
-  <programme channel="Sigma" start="20260626194500 +0300" stop="20260626220000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260626220000 +0300" stop="20260626221500 +0300">
-    <title>MUNDIAL 2026 POST GAME</title>
-  </programme>
-  <programme channel="Sigma" start="20260626221500 +0300" stop="20260626224500 +0300">
-    <title>MUNDIAL 2026 PRE GAME</title>
-  </programme>
-  <programme channel="Sigma" start="20260626224500 +0300" stop="20260627010000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260627010000 +0300" stop="20260627013500 +0300">
-    <title>MUNDIAL 2026 POST GAME</title>
-  </programme>
-  <programme channel="Sigma" start="20260627013500 +0300" stop="20260627014500 +0300">
-    <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260627014500 +0300" stop="20260627040000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260627040000 +0300" stop="20260627043500 +0300">
-    <title>FIFAWORLD CUP 2026 PREVIEW SERIES</title>
-  </programme>
-  <programme channel="Sigma" start="20260627043500 +0300" stop="20260627044500 +0300">
-    <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260627044500 +0300" stop="20260627065500 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260627065500 +0300" stop="20260627100500 +0300">
-    <title>Πρωτοσέλιδο</title>
-  </programme>
-  <programme channel="Sigma" start="20260627100500 +0300" stop="20260627105500 +0300">
-    <title>OUTDOOR & ΦΥΣΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20260627105500 +0300" stop="20260627132500 +0300">
-    <title>Μεσημέρι και Κάτι</title>
-  </programme>
-  <programme channel="Sigma" start="20260627132500 +0300" stop="20260627140000 +0300">
-    <title>MUNDIAL ZONE</title>
-  </programme>
-  <programme channel="Sigma" start="20260627140000 +0300" stop="20260627143000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260627143000 +0300" stop="20260627151000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260627151000 +0300" stop="20260627171500 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260627171500 +0300" stop="20260627180000 +0300">
-    <title>ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ SEASON 2</title>
-  </programme>
-  <programme channel="Sigma" start="20260627180000 +0300" stop="20260627181500 +0300">
-    <title>MUNDIAL EXPRESS</title>
-  </programme>
-  <programme channel="Sigma" start="20260627181500 +0300" stop="20260627193000 +0300">
-    <title>STILL STANDING</title>
-  </programme>
-  <programme channel="Sigma" start="20260627193000 +0300" stop="20260627195000 +0300">
+  <programme channel="Sigma" start="20260626193000 +0300" stop="20260626195000 +0300">
     <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20260627195000 +0300" stop="20260627203000 +0300">
+  <programme channel="Sigma" start="20260626195000 +0300" stop="20260626203000 +0300">
     <title>Τομές στα Γεγονότα</title>
   </programme>
-  <programme channel="Sigma" start="20260627203000 +0300" stop="20260627203500 +0300">
+  <programme channel="Sigma" start="20260626203000 +0300" stop="20260626203500 +0300">
     <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20260627203500 +0300" stop="20260627205500 +0300">
+  <programme channel="Sigma" start="20260626203500 +0300" stop="20260626205500 +0300">
     <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20260627205500 +0300" stop="20260627214500 +0300">
+  <programme channel="Sigma" start="20260626205500 +0300" stop="20260626214500 +0300">
     <title>MUNDIAL 2026 PRE GAME</title>
   </programme>
-  <programme channel="Sigma" start="20260627214500 +0300" stop="20260628000000 +0300">
+  <programme channel="Sigma" start="20260626214500 +0300" stop="20260627000000 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
-  <programme channel="Sigma" start="20260628000000 +0300" stop="20260628002500 +0300">
+  <programme channel="Sigma" start="20260627000000 +0300" stop="20260627002500 +0300">
     <title>MUNDIAL 2026 POST GAME</title>
   </programme>
-  <programme channel="Sigma" start="20260628002500 +0300" stop="20260628004500 +0300">
+  <programme channel="Sigma" start="20260627002500 +0300" stop="20260627004500 +0300">
     <title>MUNDIAL 2026 PRE GAME</title>
   </programme>
-  <programme channel="Sigma" start="20260628004500 +0300" stop="20260628030000 +0300">
+  <programme channel="Sigma" start="20260627004500 +0300" stop="20260627030000 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
-  <programme channel="Sigma" start="20260628030000 +0300" stop="20260628033500 +0300">
+  <programme channel="Sigma" start="20260627030000 +0300" stop="20260627033500 +0300">
     <title>FIFAWORLD CUP 2026 PREVIEW SERIES</title>
   </programme>
-  <programme channel="Sigma" start="20260628033500 +0300" stop="20260628034500 +0300">
+  <programme channel="Sigma" start="20260627033500 +0300" stop="20260627034500 +0300">
     <title>MUNDIAL 2026 PRE GAME ΓΗΠΕΔΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260628034500 +0300" stop="20260628235959 +0300">
+  <programme channel="Sigma" start="20260627034500 +0300" stop="20260627235959 +0300">
     <title>FIFAWORLD CUP 2026</title>
   </programme>
 </tv>
