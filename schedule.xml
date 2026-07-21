@@ -2,75 +2,6 @@
 <tv generator-info-name="CyprusEPG">
   <channel id="Sigma"><display-name>Sigma TV</display-name></channel>
   <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>
-  <programme channel="Sigma" start="20260720052000 +0300" stop="20260720062000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720062000 +0300" stop="20260720071500 +0300">
-    <title>ΠΡΟΟΡΙΣΜΟΣ ΕΥΤΥΧΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720071500 +0300" stop="20260720080000 +0300">
-    <title>ΑΝΕΡΑΔΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720080000 +0300" stop="20260720090000 +0300">
-    <title>ΖΩ ΚΑΛΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720090000 +0300" stop="20260720094000 +0300">
-    <title>Η ΠΕΘΕΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720094000 +0300" stop="20260720101500 +0300">
-    <title>PET STORIES</title>
-  </programme>
-  <programme channel="Sigma" start="20260720101500 +0300" stop="20260720114000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720114000 +0300" stop="20260720132500 +0300">
-    <title>ΚΥΠΡΙΑΚΟ: Πορεία προς το γκρεμό</title>
-  </programme>
-  <programme channel="Sigma" start="20260720132500 +0300" stop="20260720140000 +0300">
-    <title>MUNDIAL ZONE</title>
-  </programme>
-  <programme channel="Sigma" start="20260720140000 +0300" stop="20260720164000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20260720164000 +0300" stop="20260720164500 +0300">
-    <title>MUNDIAL EXPRESS</title>
-  </programme>
-  <programme channel="Sigma" start="20260720164500 +0300" stop="20260720185000 +0300">
-    <title>ΣΥΝΑΥΛΙΑ ΚΥΠΡΟΣ ΤΟΥ ΜΑΡΤΥΡΙΟΥ ΚΑΙ ΤΗΣ ΑΝΑΣΤΑΣΗΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720185000 +0300" stop="20260720194500 +0300">
-    <title>Ο ΜΟΝΟΜΑΧΟΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720194500 +0300" stop="20260720210500 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20260720210500 +0300" stop="20260720215500 +0300">
-    <title>ΜΑΜΑ ΣΤΑ ΚΡΥΦΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720215500 +0300" stop="20260720233000 +0300">
-    <title>ΚΑΜΙΚΑΖΙ ΑΓΑΠΗ ΜΟΥ</title>
-  </programme>
-  <programme channel="Sigma" start="20260720233000 +0300" stop="20260721001500 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260721001500 +0300" stop="20260721010000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260721010000 +0300" stop="20260721015000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260721015000 +0300" stop="20260721025000 +0300">
-    <title>TRAVEL GUIDE</title>
-  </programme>
-  <programme channel="Sigma" start="20260721025000 +0300" stop="20260721033000 +0300">
-    <title>ΒΕΝΤΕΤΑ Β' Κύκλος</title>
-  </programme>
-  <programme channel="Sigma" start="20260721033000 +0300" stop="20260721043500 +0300">
-    <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260721043500 +0300" stop="20260721052000 +0300">
-    <title>ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (CORAZON GUERRERO)</title>
-  </programme>
   <programme channel="Sigma" start="20260721052000 +0300" stop="20260721061000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
@@ -482,37 +413,37 @@
   <programme channel="Sigma" start="20260726035000 +0300" stop="20260726045000 +0300">
     <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260726045000 +0300" stop="20260726053000 +0300">
+  <programme channel="Sigma" start="20260726045000 +0300" stop="20260726060000 +0300">
     <title>ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (CORAZON GUERRERO)</title>
   </programme>
-  <programme channel="Sigma" start="20260726053000 +0300" stop="20260726061500 +0300">
+  <programme channel="Sigma" start="20260726060000 +0300" stop="20260726063000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260726061500 +0300" stop="20260726072000 +0300">
-    <title>ΖΩΗ ΠΟΔΗΛΑΤΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260726072000 +0300" stop="20260726081500 +0300">
-    <title>ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260726081500 +0300" stop="20260726103000 +0300">
+  <programme channel="Sigma" start="20260726063000 +0300" stop="20260726083000 +0300">
     <title>Tottenham Hotspur - Auckland City</title>
   </programme>
-  <programme channel="Sigma" start="20260726103000 +0300" stop="20260726111500 +0300">
+  <programme channel="Sigma" start="20260726083000 +0300" stop="20260726093000 +0300">
+    <title>ΖΩΗ ΠΟΔΗΛΑΤΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260726093000 +0300" stop="20260726103000 +0300">
+    <title>ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260726103000 +0300" stop="20260726113000 +0300">
     <title>Η ΠΕΘΕΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260726111500 +0300" stop="20260726115000 +0300">
+  <programme channel="Sigma" start="20260726113000 +0300" stop="20260726123000 +0300">
     <title>ΤΑ ΧΡΥΣΟΨΑΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260726115000 +0300" stop="20260726125000 +0300">
+  <programme channel="Sigma" start="20260726123000 +0300" stop="20260726133000 +0300">
     <title>ΖΩ ΚΑΛΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260726125000 +0300" stop="20260726134000 +0300">
+  <programme channel="Sigma" start="20260726133000 +0300" stop="20260726140000 +0300">
     <title>OUTDOOR & ΦΥΣΗ</title>
   </programme>
-  <programme channel="Sigma" start="20260726134000 +0300" stop="20260726142000 +0300">
+  <programme channel="Sigma" start="20260726140000 +0300" stop="20260726143000 +0300">
     <title>PET STORIES</title>
   </programme>
-  <programme channel="Sigma" start="20260726142000 +0300" stop="20260726151000 +0300">
+  <programme channel="Sigma" start="20260726143000 +0300" stop="20260726151000 +0300">
     <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
   </programme>
   <programme channel="Sigma" start="20260726151000 +0300" stop="20260726160500 +0300">
@@ -560,44 +491,56 @@
   <programme channel="Sigma" start="20260727030500 +0300" stop="20260727041000 +0300">
     <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260727041000 +0300" stop="20260727052000 +0300">
+  <programme channel="Sigma" start="20260727041000 +0300" stop="20260727050500 +0300">
     <title>ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (CORAZON GUERRERO)</title>
   </programme>
-  <programme channel="Sigma" start="20260727052000 +0300" stop="20260727062000 +0300">
+  <programme channel="Sigma" start="20260727050500 +0300" stop="20260727055000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260727062000 +0300" stop="20260727071500 +0300">
+  <programme channel="Sigma" start="20260727055000 +0300" stop="20260727064000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260727064000 +0300" stop="20260727073000 +0300">
     <title>ΠΡΟΟΡΙΣΜΟΣ ΕΥΤΥΧΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260727071500 +0300" stop="20260727080000 +0300">
+  <programme channel="Sigma" start="20260727073000 +0300" stop="20260727083000 +0300">
+    <title>ΠΡΟΟΡΙΣΜΟΣ ΕΥΤΥΧΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260727083000 +0300" stop="20260727092000 +0300">
     <title>ΑΝΕΡΑΔΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20260727080000 +0300" stop="20260727090000 +0300">
+  <programme channel="Sigma" start="20260727092000 +0300" stop="20260727101000 +0300">
     <title>ΖΩ ΚΑΛΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260727090000 +0300" stop="20260727094000 +0300">
+  <programme channel="Sigma" start="20260727101000 +0300" stop="20260727105500 +0300">
     <title>Η ΠΕΘΕΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260727094000 +0300" stop="20260727101500 +0300">
+  <programme channel="Sigma" start="20260727105500 +0300" stop="20260727113000 +0300">
     <title>PET STORIES</title>
   </programme>
-  <programme channel="Sigma" start="20260727101500 +0300" stop="20260727114000 +0300">
+  <programme channel="Sigma" start="20260727113000 +0300" stop="20260727121000 +0300">
+    <title>ROAMING CYPRUS ΤΗΛΕΤΑΙΝΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260727121000 +0300" stop="20260727131000 +0300">
+    <title>HAPPY TRAVELLER</title>
+  </programme>
+  <programme channel="Sigma" start="20260727131000 +0300" stop="20260727140000 +0300">
     <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
   </programme>
-  <programme channel="Sigma" start="20260727114000 +0300" stop="20260727132500 +0300">
-    <title>ΚΥΠΡΙΑΚΟ: Πορεία προς το γκρεμό</title>
+  <programme channel="Sigma" start="20260727140000 +0300" stop="20260727145000 +0300">
+    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
   </programme>
-  <programme channel="Sigma" start="20260727132500 +0300" stop="20260727140000 +0300">
-    <title>MUNDIAL ZONE</title>
+  <programme channel="Sigma" start="20260727145000 +0300" stop="20260727154000 +0300">
+    <title>ΚΑΛΑ ΘΑ ΠΑΕΙ ΚΙ ΑΥΤΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260727140000 +0300" stop="20260727164000 +0300">
-    <title>FIFAWORLD CUP 2026</title>
+  <programme channel="Sigma" start="20260727154000 +0300" stop="20260727163500 +0300">
+    <title>ΚΑΛΑ ΘΑ ΠΑΕΙ ΚΙ ΑΥΤΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260727164000 +0300" stop="20260727164500 +0300">
-    <title>MUNDIAL EXPRESS</title>
+  <programme channel="Sigma" start="20260727163500 +0300" stop="20260727171500 +0300">
+    <title>ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ SEASON 2</title>
   </programme>
-  <programme channel="Sigma" start="20260727164500 +0300" stop="20260727185000 +0300">
-    <title>ΣΥΝΑΥΛΙΑ ΚΥΠΡΟΣ ΤΟΥ ΜΑΡΤΥΡΙΟΥ ΚΑΙ ΤΗΣ ΑΝΑΣΤΑΣΗΣ</title>
+  <programme channel="Sigma" start="20260727171500 +0300" stop="20260727185000 +0300">
+    <title>THE FLOOR</title>
   </programme>
   <programme channel="Sigma" start="20260727185000 +0300" stop="20260727194500 +0300">
     <title>Ο ΜΟΝΟΜΑΧΟΣ</title>
@@ -605,31 +548,31 @@
   <programme channel="Sigma" start="20260727194500 +0300" stop="20260727210500 +0300">
     <title>Τομές στα Γεγονότα</title>
   </programme>
-  <programme channel="Sigma" start="20260727210500 +0300" stop="20260727215500 +0300">
+  <programme channel="Sigma" start="20260727210500 +0300" stop="20260727220000 +0300">
     <title>ΜΑΜΑ ΣΤΑ ΚΡΥΦΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260727215500 +0300" stop="20260727233000 +0300">
-    <title>ΚΑΜΙΚΑΖΙ ΑΓΑΠΗ ΜΟΥ</title>
+  <programme channel="Sigma" start="20260727220000 +0300" stop="20260727233500 +0300">
+    <title>ΝΟΚ ΑΟΥΤ ΣΤΟΝ ΕΡΩΤΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260727233000 +0300" stop="20260728001500 +0300">
+  <programme channel="Sigma" start="20260727233500 +0300" stop="20260728002000 +0300">
     <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260728001500 +0300" stop="20260728010000 +0300">
+  <programme channel="Sigma" start="20260728002000 +0300" stop="20260728011500 +0300">
     <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260728010000 +0300" stop="20260728015000 +0300">
+  <programme channel="Sigma" start="20260728011500 +0300" stop="20260728020500 +0300">
     <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260728015000 +0300" stop="20260728025000 +0300">
+  <programme channel="Sigma" start="20260728020500 +0300" stop="20260728030000 +0300">
     <title>TRAVEL GUIDE</title>
   </programme>
-  <programme channel="Sigma" start="20260728025000 +0300" stop="20260728033000 +0300">
+  <programme channel="Sigma" start="20260728030000 +0300" stop="20260728035500 +0300">
     <title>ΒΕΝΤΕΤΑ Β' Κύκλος</title>
   </programme>
-  <programme channel="Sigma" start="20260728033000 +0300" stop="20260728043500 +0300">
+  <programme channel="Sigma" start="20260728035500 +0300" stop="20260728044000 +0300">
     <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260728043500 +0300" stop="20260728052000 +0300">
+  <programme channel="Sigma" start="20260728044000 +0300" stop="20260728052000 +0300">
     <title>ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (CORAZON GUERRERO)</title>
   </programme>
   <programme channel="Sigma" start="20260728052000 +0300" stop="20260728061000 +0300">
@@ -1043,37 +986,37 @@
   <programme channel="Sigma" start="20260802035000 +0300" stop="20260802045000 +0300">
     <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260802045000 +0300" stop="20260802053000 +0300">
+  <programme channel="Sigma" start="20260802045000 +0300" stop="20260802060000 +0300">
     <title>ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (CORAZON GUERRERO)</title>
   </programme>
-  <programme channel="Sigma" start="20260802053000 +0300" stop="20260802061500 +0300">
+  <programme channel="Sigma" start="20260802060000 +0300" stop="20260802063000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20260802061500 +0300" stop="20260802072000 +0300">
-    <title>ΖΩΗ ΠΟΔΗΛΑΤΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260802072000 +0300" stop="20260802081500 +0300">
-    <title>ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260802081500 +0300" stop="20260802103000 +0300">
+  <programme channel="Sigma" start="20260802063000 +0300" stop="20260802083000 +0300">
     <title>Tottenham Hotspur - Auckland City</title>
   </programme>
-  <programme channel="Sigma" start="20260802103000 +0300" stop="20260802111500 +0300">
+  <programme channel="Sigma" start="20260802083000 +0300" stop="20260802093000 +0300">
+    <title>ΖΩΗ ΠΟΔΗΛΑΤΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260802093000 +0300" stop="20260802103000 +0300">
+    <title>ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260802103000 +0300" stop="20260802113000 +0300">
     <title>Η ΠΕΘΕΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260802111500 +0300" stop="20260802115000 +0300">
+  <programme channel="Sigma" start="20260802113000 +0300" stop="20260802123000 +0300">
     <title>ΤΑ ΧΡΥΣΟΨΑΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260802115000 +0300" stop="20260802125000 +0300">
+  <programme channel="Sigma" start="20260802123000 +0300" stop="20260802133000 +0300">
     <title>ΖΩ ΚΑΛΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260802125000 +0300" stop="20260802134000 +0300">
+  <programme channel="Sigma" start="20260802133000 +0300" stop="20260802140000 +0300">
     <title>OUTDOOR & ΦΥΣΗ</title>
   </programme>
-  <programme channel="Sigma" start="20260802134000 +0300" stop="20260802142000 +0300">
+  <programme channel="Sigma" start="20260802140000 +0300" stop="20260802143000 +0300">
     <title>PET STORIES</title>
   </programme>
-  <programme channel="Sigma" start="20260802142000 +0300" stop="20260802151000 +0300">
+  <programme channel="Sigma" start="20260802143000 +0300" stop="20260802151000 +0300">
     <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
   </programme>
   <programme channel="Sigma" start="20260802151000 +0300" stop="20260802160500 +0300">
@@ -1121,7 +1064,88 @@
   <programme channel="Sigma" start="20260803030500 +0300" stop="20260803041000 +0300">
     <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
   </programme>
-  <programme channel="Sigma" start="20260803041000 +0300" stop="20260803235959 +0300">
+  <programme channel="Sigma" start="20260803041000 +0300" stop="20260803050500 +0300">
+    <title>ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (CORAZON GUERRERO)</title>
+  </programme>
+  <programme channel="Sigma" start="20260803050500 +0300" stop="20260803055000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803055000 +0300" stop="20260803064000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803064000 +0300" stop="20260803073000 +0300">
+    <title>ΠΡΟΟΡΙΣΜΟΣ ΕΥΤΥΧΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803073000 +0300" stop="20260803083000 +0300">
+    <title>ΠΡΟΟΡΙΣΜΟΣ ΕΥΤΥΧΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803083000 +0300" stop="20260803092000 +0300">
+    <title>ΑΝΕΡΑΔΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803092000 +0300" stop="20260803101000 +0300">
+    <title>ΖΩ ΚΑΛΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803101000 +0300" stop="20260803105500 +0300">
+    <title>Η ΠΕΘΕΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803105500 +0300" stop="20260803113000 +0300">
+    <title>PET STORIES</title>
+  </programme>
+  <programme channel="Sigma" start="20260803113000 +0300" stop="20260803121000 +0300">
+    <title>ROAMING CYPRUS ΤΗΛΕΤΑΙΝΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803121000 +0300" stop="20260803131000 +0300">
+    <title>HAPPY TRAVELLER</title>
+  </programme>
+  <programme channel="Sigma" start="20260803131000 +0300" stop="20260803140000 +0300">
+    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803140000 +0300" stop="20260803145000 +0300">
+    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803145000 +0300" stop="20260803154000 +0300">
+    <title>ΚΑΛΑ ΘΑ ΠΑΕΙ ΚΙ ΑΥΤΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803154000 +0300" stop="20260803163500 +0300">
+    <title>ΚΑΛΑ ΘΑ ΠΑΕΙ ΚΙ ΑΥΤΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803163500 +0300" stop="20260803171500 +0300">
+    <title>ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ SEASON 2</title>
+  </programme>
+  <programme channel="Sigma" start="20260803171500 +0300" stop="20260803185000 +0300">
+    <title>THE FLOOR</title>
+  </programme>
+  <programme channel="Sigma" start="20260803185000 +0300" stop="20260803194500 +0300">
+    <title>Ο ΜΟΝΟΜΑΧΟΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803194500 +0300" stop="20260803210500 +0300">
+    <title>Τομές στα Γεγονότα</title>
+  </programme>
+  <programme channel="Sigma" start="20260803210500 +0300" stop="20260803220000 +0300">
+    <title>ΜΑΜΑ ΣΤΑ ΚΡΥΦΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803220000 +0300" stop="20260803233500 +0300">
+    <title>ΝΟΚ ΑΟΥΤ ΣΤΟΝ ΕΡΩΤΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260803233500 +0300" stop="20260804002000 +0300">
+    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260804002000 +0300" stop="20260804011500 +0300">
+    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260804011500 +0300" stop="20260804020500 +0300">
+    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260804020500 +0300" stop="20260804030000 +0300">
+    <title>TRAVEL GUIDE</title>
+  </programme>
+  <programme channel="Sigma" start="20260804030000 +0300" stop="20260804035500 +0300">
+    <title>ΒΕΝΤΕΤΑ Β' Κύκλος</title>
+  </programme>
+  <programme channel="Sigma" start="20260804035500 +0300" stop="20260804044000 +0300">
+    <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20260804044000 +0300" stop="20260804235959 +0300">
     <title>ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (CORAZON GUERRERO)</title>
   </programme>
 </tv>
