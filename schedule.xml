@@ -2,72 +2,6 @@
 <tv generator-info-name="CyprusEPG">
   <channel id="Sigma"><display-name>Sigma TV</display-name></channel>
   <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>
-  <programme channel="Sigma" start="20260913054000 +0300" stop="20260913062500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913062500 +0300" stop="20260913065500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913065500 +0300" stop="20260913072500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913072500 +0300" stop="20260913100000 +0300">
-    <title>ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913100000 +0300" stop="20260913121000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20260913121000 +0300" stop="20260913131000 +0300">
-    <title>ΖΩ ΚΑΛΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913131000 +0300" stop="20260913134500 +0300">
-    <title>ΑΛΛΟΥ ΞΗΜΕΡΩΜΕΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913134500 +0300" stop="20260913142500 +0300">
-    <title>ΑΛΛΟΥ ΞΗΜΕΡΩΜΕΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913142500 +0300" stop="20260913162000 +0300">
-    <title>ΤΡΕΛΛΑΔΙΚΟ ΠΟΛΥΤΕΛΕΙΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913162000 +0300" stop="20260913165500 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913165500 +0300" stop="20260913173000 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913173000 +0300" stop="20260913181500 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913181500 +0300" stop="20260913195000 +0300">
-    <title>THE WALL</title>
-  </programme>
-  <programme channel="Sigma" start="20260913195000 +0300" stop="20260913211000 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20260913211000 +0300" stop="20260913223500 +0300">
-    <title>MOTHERHOOD</title>
-  </programme>
-  <programme channel="Sigma" start="20260913223500 +0300" stop="20260913232000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260913232000 +0300" stop="20260914001000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260914001000 +0300" stop="20260914014500 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ ΠΕΘΕΡΑ (ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ)</title>
-  </programme>
-  <programme channel="Sigma" start="20260914014500 +0300" stop="20260914025000 +0300">
-    <title>JACK IRISH</title>
-  </programme>
-  <programme channel="Sigma" start="20260914025000 +0300" stop="20260914033500 +0300">
-    <title>ΚΑΤΑ ΛΑΘΟΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260914033500 +0300" stop="20260914042000 +0300">
-    <title>ΠΡΟΔΟΣΙΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260914042000 +0300" stop="20260914050500 +0300">
-    <title>ΠΡΟΔΟΣΙΕΣ</title>
-  </programme>
   <programme channel="Sigma" start="20260914050500 +0300" stop="20260914055000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
@@ -182,74 +116,8 @@
   <programme channel="Sigma" start="20260916042000 +0300" stop="20260916051500 +0300">
     <title>ΠΡΟΔΟΣΙΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20260916051500 +0300" stop="20260916054000 +0300">
+  <programme channel="Sigma" start="20260916051500 +0300" stop="20260917050500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916054000 +0300" stop="20260916062500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916062500 +0300" stop="20260916065500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916065500 +0300" stop="20260916072500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916072500 +0300" stop="20260916100000 +0300">
-    <title>ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916100000 +0300" stop="20260916121000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20260916121000 +0300" stop="20260916131000 +0300">
-    <title>ΖΩ ΚΑΛΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916131000 +0300" stop="20260916134500 +0300">
-    <title>ΑΛΛΟΥ ΞΗΜΕΡΩΜΕΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916134500 +0300" stop="20260916142500 +0300">
-    <title>ΑΛΛΟΥ ΞΗΜΕΡΩΜΕΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916142500 +0300" stop="20260916162000 +0300">
-    <title>ΤΡΕΛΛΑΔΙΚΟ ΠΟΛΥΤΕΛΕΙΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916162000 +0300" stop="20260916165500 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916165500 +0300" stop="20260916173000 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916173000 +0300" stop="20260916181500 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916181500 +0300" stop="20260916195000 +0300">
-    <title>THE WALL</title>
-  </programme>
-  <programme channel="Sigma" start="20260916195000 +0300" stop="20260916211000 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20260916211000 +0300" stop="20260916223500 +0300">
-    <title>MOTHERHOOD</title>
-  </programme>
-  <programme channel="Sigma" start="20260916223500 +0300" stop="20260916232000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260916232000 +0300" stop="20260917001000 +0300">
-    <title>ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20260917001000 +0300" stop="20260917014500 +0300">
-    <title>ΠΑΝΤΡΕΜΕΝΟΣ ΜΕ ΠΕΘΕΡΑ (ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ)</title>
-  </programme>
-  <programme channel="Sigma" start="20260917014500 +0300" stop="20260917025000 +0300">
-    <title>JACK IRISH</title>
-  </programme>
-  <programme channel="Sigma" start="20260917025000 +0300" stop="20260917033500 +0300">
-    <title>ΚΑΤΑ ΛΑΘΟΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260917033500 +0300" stop="20260917042000 +0300">
-    <title>ΠΡΟΔΟΣΙΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20260917042000 +0300" stop="20260917050500 +0300">
-    <title>ΠΡΟΔΟΣΙΕΣ</title>
   </programme>
   <programme channel="Sigma" start="20260917050500 +0300" stop="20260917055000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
