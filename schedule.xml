@@ -2,66 +2,6 @@
 <tv generator-info-name="CyprusEPG">
   <channel id="Sigma"><display-name>Sigma TV</display-name></channel>
   <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>
-  <programme channel="Sigma" start="20261026051000 +0300" stop="20261026055500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026055500 +0300" stop="20261026064000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026064000 +0300" stop="20261026090300 +0300">
-    <title>Πρωτοσέλιδο</title>
-  </programme>
-  <programme channel="Sigma" start="20261026090300 +0300" stop="20261026101000 +0300">
-    <title>Ήρθε κι έδεσε</title>
-  </programme>
-  <programme channel="Sigma" start="20261026101000 +0300" stop="20261026110000 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026110000 +0300" stop="20261026133000 +0300">
-    <title>Μεσημέρι και Κάτι</title>
-  </programme>
-  <programme channel="Sigma" start="20261026133000 +0300" stop="20261026133500 +0300">
-    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20261026133500 +0300" stop="20261026145500 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026145500 +0300" stop="20261026181000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20261026181000 +0300" stop="20261026181500 +0300">
-    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20261026181500 +0300" stop="20261026190000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026190000 +0300" stop="20261026200000 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026200000 +0300" stop="20261026210000 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20261026210000 +0300" stop="20261026211000 +0300">
-    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
-  </programme>
-  <programme channel="Sigma" start="20261026211000 +0300" stop="20261026223000 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026223000 +0300" stop="20261026230500 +0300">
-    <title>ΤΟΤΕ ΚΑΙ ΤΩΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261026230500 +0300" stop="20261027011000 +0300">
-    <title>DARK BLUE</title>
-  </programme>
-  <programme channel="Sigma" start="20261027011000 +0300" stop="20261027014500 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261027014500 +0300" stop="20261027042500 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20261027042500 +0300" stop="20261027052000 +0300">
-    <title>ΓΑΛΑΤΕΙΑ</title>
-  </programme>
   <programme channel="Sigma" start="20261027052000 +0300" stop="20261027060000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
@@ -116,16 +56,85 @@
   <programme channel="Sigma" start="20261028014000 +0300" stop="20261028043500 +0300">
     <title>STUDIO ΣΤΙΣ 3</title>
   </programme>
-  <programme channel="Sigma" start="20261028043500 +0300" stop="20261028053000 +0300">
+  <programme channel="Sigma" start="20261028043500 +0300" stop="20261028061500 +0300">
     <title>ΓΑΛΑΤΕΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261028053000 +0300" stop="20261029051000 +0300">
+  <programme channel="Sigma" start="20261028061500 +0300" stop="20261028065500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261029051000 +0300" stop="20261029055500 +0300">
+  <programme channel="Sigma" start="20261028065500 +0300" stop="20261028073000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261029055500 +0300" stop="20261029064000 +0300">
+  <programme channel="Sigma" start="20261028073000 +0300" stop="20261028081000 +0300">
+    <title>Η ΠΕΘΕΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028081000 +0300" stop="20261028085000 +0300">
+    <title>Η ΠΕΘΕΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028085000 +0300" stop="20261028095500 +0300">
+    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028095500 +0300" stop="20261028105500 +0300">
+    <title>HAPPY TRAVELLER</title>
+  </programme>
+  <programme channel="Sigma" start="20261028105500 +0300" stop="20261028121500 +0300">
+    <title>ΜΑΘΗΤΙΚΗ ΠΑΡΕΛΑΣΗ 28ΗΣ ΟΚΤΩΒΡΙΟΥ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028121500 +0300" stop="20261028125000 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028125000 +0300" stop="20261028132000 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028132000 +0300" stop="20261028135500 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028135500 +0300" stop="20261028135500 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261028135500 +0300" stop="20261028145500 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261028145500 +0300" stop="20261028171000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261028171000 +0300" stop="20261028180500 +0300">
+    <title>KITCHEN LAB</title>
+  </programme>
+  <programme channel="Sigma" start="20261028180500 +0300" stop="20261028181000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261028181000 +0300" stop="20261028200000 +0300">
+    <title>DRAGONS' DEN</title>
+  </programme>
+  <programme channel="Sigma" start="20261028200000 +0300" stop="20261028210000 +0300">
+    <title>Τομές στα Γεγονότα</title>
+  </programme>
+  <programme channel="Sigma" start="20261028210000 +0300" stop="20261028211000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261028211000 +0300" stop="20261028225000 +0300">
+    <title>DAREDEVIL</title>
+  </programme>
+  <programme channel="Sigma" start="20261028225000 +0300" stop="20261029004500 +0300">
+    <title>BEYOND REASONABLE DOUBT</title>
+  </programme>
+  <programme channel="Sigma" start="20261029004500 +0300" stop="20261029024000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261029024000 +0300" stop="20261029034500 +0300">
+    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
+  </programme>
+  <programme channel="Sigma" start="20261029034500 +0300" stop="20261029044000 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261029044000 +0300" stop="20261029052000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261029052000 +0300" stop="20261029060000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261029060000 +0300" stop="20261029064000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
   <programme channel="Sigma" start="20261029064000 +0300" stop="20261029090300 +0300">
@@ -140,20 +149,20 @@
   <programme channel="Sigma" start="20261029110000 +0300" stop="20261029133000 +0300">
     <title>Μεσημέρι και Κάτι</title>
   </programme>
-  <programme channel="Sigma" start="20261029133000 +0300" stop="20261029133500 +0300">
+  <programme channel="Sigma" start="20261029133000 +0300" stop="20261029133000 +0300">
     <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
   </programme>
-  <programme channel="Sigma" start="20261029133500 +0300" stop="20261029145500 +0300">
+  <programme channel="Sigma" start="20261029133000 +0300" stop="20261029145500 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
   <programme channel="Sigma" start="20261029145500 +0300" stop="20261029181000 +0300">
     <title>STUDIO ΣΤΙΣ 3</title>
   </programme>
-  <programme channel="Sigma" start="20261029181000 +0300" stop="20261029181500 +0300">
-    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  <programme channel="Sigma" start="20261029181000 +0300" stop="20261029181000 +0300">
+    <title>KITCHEN LAB</title>
   </programme>
-  <programme channel="Sigma" start="20261029181500 +0300" stop="20261029190000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  <programme channel="Sigma" start="20261029181000 +0300" stop="20261029190000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
   </programme>
   <programme channel="Sigma" start="20261029190000 +0300" stop="20261029200000 +0300">
     <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
@@ -167,22 +176,25 @@
   <programme channel="Sigma" start="20261029211000 +0300" stop="20261029223000 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261029223000 +0300" stop="20261029230500 +0300">
+  <programme channel="Sigma" start="20261029223000 +0300" stop="20261029235500 +0300">
+    <title>ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261029235500 +0300" stop="20261030003000 +0300">
     <title>ΤΟΤΕ ΚΑΙ ΤΩΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261029230500 +0300" stop="20261030011000 +0300">
-    <title>DARK BLUE</title>
-  </programme>
-  <programme channel="Sigma" start="20261030011000 +0300" stop="20261030014500 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261030014500 +0300" stop="20261030042500 +0300">
+  <programme channel="Sigma" start="20261030003000 +0300" stop="20261030032000 +0300">
     <title>STUDIO ΣΤΙΣ 3</title>
   </programme>
-  <programme channel="Sigma" start="20261030042500 +0300" stop="20261030052000 +0300">
+  <programme channel="Sigma" start="20261030032000 +0300" stop="20261030040500 +0300">
     <title>ΓΑΛΑΤΕΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261030052000 +0300" stop="20261030060000 +0300">
+  <programme channel="Sigma" start="20261030040500 +0300" stop="20261030045000 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261030045000 +0300" stop="20261030052500 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261030052500 +0300" stop="20261030060000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
   <programme channel="Sigma" start="20261030060000 +0300" stop="20261030064000 +0300">
@@ -200,20 +212,20 @@
   <programme channel="Sigma" start="20261030110000 +0300" stop="20261030133000 +0300">
     <title>Μεσημέρι και Κάτι</title>
   </programme>
-  <programme channel="Sigma" start="20261030133000 +0300" stop="20261030133500 +0300">
+  <programme channel="Sigma" start="20261030133000 +0300" stop="20261030133000 +0300">
     <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
   </programme>
-  <programme channel="Sigma" start="20261030133500 +0300" stop="20261030145500 +0300">
+  <programme channel="Sigma" start="20261030133000 +0300" stop="20261030145500 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
   <programme channel="Sigma" start="20261030145500 +0300" stop="20261030181000 +0300">
     <title>STUDIO ΣΤΙΣ 3</title>
   </programme>
-  <programme channel="Sigma" start="20261030181000 +0300" stop="20261030181500 +0300">
+  <programme channel="Sigma" start="20261030181000 +0300" stop="20261030181000 +0300">
     <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
   </programme>
-  <programme channel="Sigma" start="20261030181500 +0300" stop="20261030190000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  <programme channel="Sigma" start="20261030181000 +0300" stop="20261030190000 +0300">
+    <title>KITCHEN LAB</title>
   </programme>
   <programme channel="Sigma" start="20261030190000 +0300" stop="20261030200000 +0300">
     <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
@@ -221,25 +233,283 @@
   <programme channel="Sigma" start="20261030200000 +0300" stop="20261030210000 +0300">
     <title>Τομές στα Γεγονότα</title>
   </programme>
-  <programme channel="Sigma" start="20261030210000 +0300" stop="20261030210000 +0300">
+  <programme channel="Sigma" start="20261030210000 +0300" stop="20261030211000 +0300">
     <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
   </programme>
-  <programme channel="Sigma" start="20261030210000 +0300" stop="20261030232000 +0300">
+  <programme channel="Sigma" start="20261030211000 +0300" stop="20261030221000 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261030232000 +0300" stop="20261031010500 +0300">
-    <title>TIMECOP</title>
+  <programme channel="Sigma" start="20261030221000 +0300" stop="20261031001000 +0300">
+    <title>DRAGONS' DEN</title>
   </programme>
-  <programme channel="Sigma" start="20261031010500 +0300" stop="20261031014000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  <programme channel="Sigma" start="20261031001000 +0300" stop="20261031012500 +0300">
+    <title>ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
   </programme>
-  <programme channel="Sigma" start="20261031014000 +0300" stop="20261031043500 +0300">
+  <programme channel="Sigma" start="20261031012500 +0300" stop="20261031042000 +0300">
     <title>STUDIO ΣΤΙΣ 3</title>
   </programme>
-  <programme channel="Sigma" start="20261031043500 +0300" stop="20261031053000 +0300">
+  <programme channel="Sigma" start="20261031042000 +0300" stop="20261031051000 +0300">
     <title>ΓΑΛΑΤΕΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261031053000 +0300" stop="20261031235959 +0300">
+  <programme channel="Sigma" start="20261031051000 +0300" stop="20261031054500 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261031054500 +0300" stop="20261101052000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101052000 +0300" stop="20261101060000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101060000 +0300" stop="20261101064000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101064000 +0300" stop="20261101090300 +0300">
+    <title>Πρωτοσέλιδο</title>
+  </programme>
+  <programme channel="Sigma" start="20261101090300 +0300" stop="20261101101000 +0300">
+    <title>Ήρθε κι έδεσε</title>
+  </programme>
+  <programme channel="Sigma" start="20261101101000 +0300" stop="20261101110000 +0300">
+    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101110000 +0300" stop="20261101133000 +0300">
+    <title>Μεσημέρι και Κάτι</title>
+  </programme>
+  <programme channel="Sigma" start="20261101133000 +0300" stop="20261101133500 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261101133500 +0300" stop="20261101145500 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101145500 +0300" stop="20261101181000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261101181000 +0300" stop="20261101181500 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261101181500 +0300" stop="20261101190000 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101190000 +0300" stop="20261101200000 +0300">
+    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101200000 +0300" stop="20261101210000 +0300">
+    <title>Τομές στα Γεγονότα</title>
+  </programme>
+  <programme channel="Sigma" start="20261101210000 +0300" stop="20261101210000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261101210000 +0300" stop="20261101232000 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261101232000 +0300" stop="20261102010500 +0300">
+    <title>TIMECOP</title>
+  </programme>
+  <programme channel="Sigma" start="20261102010500 +0300" stop="20261102014000 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102014000 +0300" stop="20261102043500 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261102043500 +0300" stop="20261102061500 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102061500 +0300" stop="20261102065500 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102065500 +0300" stop="20261102073000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102073000 +0300" stop="20261102081000 +0300">
+    <title>Η ΠΕΘΕΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102081000 +0300" stop="20261102085000 +0300">
+    <title>Η ΠΕΘΕΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102085000 +0300" stop="20261102095500 +0300">
+    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102095500 +0300" stop="20261102105500 +0300">
+    <title>HAPPY TRAVELLER</title>
+  </programme>
+  <programme channel="Sigma" start="20261102105500 +0300" stop="20261102121500 +0300">
+    <title>ΜΑΘΗΤΙΚΗ ΠΑΡΕΛΑΣΗ 28ΗΣ ΟΚΤΩΒΡΙΟΥ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102121500 +0300" stop="20261102125000 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102125000 +0300" stop="20261102132000 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102132000 +0300" stop="20261102135500 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102135500 +0300" stop="20261102135500 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261102135500 +0300" stop="20261102145500 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261102145500 +0300" stop="20261102171000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261102171000 +0300" stop="20261102180500 +0300">
+    <title>KITCHEN LAB</title>
+  </programme>
+  <programme channel="Sigma" start="20261102180500 +0300" stop="20261102181000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261102181000 +0300" stop="20261102200000 +0300">
+    <title>DRAGONS' DEN</title>
+  </programme>
+  <programme channel="Sigma" start="20261102200000 +0300" stop="20261102210000 +0300">
+    <title>Τομές στα Γεγονότα</title>
+  </programme>
+  <programme channel="Sigma" start="20261102210000 +0300" stop="20261102211000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261102211000 +0300" stop="20261102225000 +0300">
+    <title>DAREDEVIL</title>
+  </programme>
+  <programme channel="Sigma" start="20261102225000 +0300" stop="20261103004500 +0300">
+    <title>BEYOND REASONABLE DOUBT</title>
+  </programme>
+  <programme channel="Sigma" start="20261103004500 +0300" stop="20261103024000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261103024000 +0300" stop="20261103034500 +0300">
+    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103034500 +0300" stop="20261103044000 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103044000 +0300" stop="20261103052000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103052000 +0300" stop="20261103060000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103060000 +0300" stop="20261103064000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103064000 +0300" stop="20261103090300 +0300">
+    <title>Πρωτοσέλιδο</title>
+  </programme>
+  <programme channel="Sigma" start="20261103090300 +0300" stop="20261103101000 +0300">
+    <title>Ήρθε κι έδεσε</title>
+  </programme>
+  <programme channel="Sigma" start="20261103101000 +0300" stop="20261103110000 +0300">
+    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103110000 +0300" stop="20261103133000 +0300">
+    <title>Μεσημέρι και Κάτι</title>
+  </programme>
+  <programme channel="Sigma" start="20261103133000 +0300" stop="20261103133000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261103133000 +0300" stop="20261103145500 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103145500 +0300" stop="20261103181000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261103181000 +0300" stop="20261103181000 +0300">
+    <title>KITCHEN LAB</title>
+  </programme>
+  <programme channel="Sigma" start="20261103181000 +0300" stop="20261103190000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261103190000 +0300" stop="20261103200000 +0300">
+    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103200000 +0300" stop="20261103210000 +0300">
+    <title>Τομές στα Γεγονότα</title>
+  </programme>
+  <programme channel="Sigma" start="20261103210000 +0300" stop="20261103211000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261103211000 +0300" stop="20261103223000 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103223000 +0300" stop="20261103235500 +0300">
+    <title>ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261103235500 +0300" stop="20261104003000 +0300">
+    <title>ΤΟΤΕ ΚΑΙ ΤΩΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104003000 +0300" stop="20261104032000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261104032000 +0300" stop="20261104040500 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104040500 +0300" stop="20261104045000 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104045000 +0300" stop="20261104052500 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104052500 +0300" stop="20261104060000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104060000 +0300" stop="20261104064000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104064000 +0300" stop="20261104090300 +0300">
+    <title>Πρωτοσέλιδο</title>
+  </programme>
+  <programme channel="Sigma" start="20261104090300 +0300" stop="20261104101000 +0300">
+    <title>Ήρθε κι έδεσε</title>
+  </programme>
+  <programme channel="Sigma" start="20261104101000 +0300" stop="20261104110000 +0300">
+    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104110000 +0300" stop="20261104133000 +0300">
+    <title>Μεσημέρι και Κάτι</title>
+  </programme>
+  <programme channel="Sigma" start="20261104133000 +0300" stop="20261104133000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261104133000 +0300" stop="20261104145500 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104145500 +0300" stop="20261104181000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261104181000 +0300" stop="20261104181000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261104181000 +0300" stop="20261104190000 +0300">
+    <title>KITCHEN LAB</title>
+  </programme>
+  <programme channel="Sigma" start="20261104190000 +0300" stop="20261104200000 +0300">
+    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104200000 +0300" stop="20261104210000 +0300">
+    <title>Τομές στα Γεγονότα</title>
+  </programme>
+  <programme channel="Sigma" start="20261104210000 +0300" stop="20261104211000 +0300">
+    <title>MADAME FIGARO ΝΙΚΗΤΡΙΕΣ 2026</title>
+  </programme>
+  <programme channel="Sigma" start="20261104211000 +0300" stop="20261104221000 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261104221000 +0300" stop="20261105001000 +0300">
+    <title>DRAGONS' DEN</title>
+  </programme>
+  <programme channel="Sigma" start="20261105001000 +0300" stop="20261105012500 +0300">
+    <title>ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261105012500 +0300" stop="20261105042000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261105042000 +0300" stop="20261105051000 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261105051000 +0300" stop="20261105054500 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261105054500 +0300" stop="20261105235959 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
 </tv>
