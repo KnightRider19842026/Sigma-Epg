@@ -2,69 +2,6 @@
 <tv generator-info-name="CyprusEPG">
   <channel id="Sigma"><display-name>Sigma TV</display-name></channel>
   <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>
-  <programme channel="Sigma" start="20261107061000 +0300" stop="20261107070000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107070000 +0300" stop="20261107072500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107072500 +0300" stop="20261107075000 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107075000 +0300" stop="20261107083500 +0300">
-    <title>ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107083500 +0300" stop="20261107092000 +0300">
-    <title>Η ΠΕΘΕΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107092000 +0300" stop="20261107100000 +0300">
-    <title>Η ΠΕΘΕΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107100000 +0300" stop="20261107110000 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107110000 +0300" stop="20261107115000 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107115000 +0300" stop="20261107124500 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107124500 +0300" stop="20261107133500 +0300">
-    <title>KITCHEN LAB</title>
-  </programme>
-  <programme channel="Sigma" start="20261107133500 +0300" stop="20261107143500 +0300">
-    <title>HAPPY TRAVELLER</title>
-  </programme>
-  <programme channel="Sigma" start="20261107143500 +0300" stop="20261107155500 +0300">
-    <title>ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107155500 +0300" stop="20261107163000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107163000 +0300" stop="20261107170500 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261107170500 +0300" stop="20261107200000 +0300">
-    <title>THE VOICE OF GREECE</title>
-  </programme>
-  <programme channel="Sigma" start="20261107200000 +0300" stop="20261107211000 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20261107211000 +0300" stop="20261108010000 +0300">
-    <title>THE VOICE OF GREECE</title>
-  </programme>
-  <programme channel="Sigma" start="20261108010000 +0300" stop="20261108023500 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261108023500 +0300" stop="20261108034500 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261108034500 +0300" stop="20261108044000 +0300">
-    <title>HAPPY TRAVELLER</title>
-  </programme>
-  <programme channel="Sigma" start="20261108044000 +0300" stop="20261108052500 +0300">
-    <title>ΚΑΤΑ ΛΑΘΟΣ</title>
-  </programme>
   <programme channel="Sigma" start="20261108052500 +0300" stop="20261108055000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
@@ -230,136 +167,124 @@
   <programme channel="Sigma" start="20261111044000 +0300" stop="20261111052000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261111052000 +0300" stop="20261111061000 +0300">
+  <programme channel="Sigma" start="20261111052000 +0300" stop="20261111052500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261111061000 +0300" stop="20261111070000 +0300">
+  <programme channel="Sigma" start="20261111052500 +0300" stop="20261111055000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261111055000 +0300" stop="20261111063000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+  </programme>
+  <programme channel="Sigma" start="20261111063000 +0300" stop="20261111070000 +0300">
+    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
   </programme>
   <programme channel="Sigma" start="20261111070000 +0300" stop="20261111072500 +0300">
     <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261111072500 +0300" stop="20261111075000 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
+  <programme channel="Sigma" start="20261111072500 +0300" stop="20261111100000 +0300">
+    <title>ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261111075000 +0300" stop="20261111083500 +0300">
-    <title>ΑΛΛΑ ΛΟΓΙΑ ΘΚΕΙΕ ΠΑΠΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261111083500 +0300" stop="20261111092000 +0300">
-    <title>Η ΠΕΘΕΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261111092000 +0300" stop="20261111100000 +0300">
-    <title>Η ΠΕΘΕΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261111100000 +0300" stop="20261111110000 +0300">
+  <programme channel="Sigma" start="20261111100000 +0300" stop="20261111105500 +0300">
     <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
   </programme>
-  <programme channel="Sigma" start="20261111110000 +0300" stop="20261111115000 +0300">
+  <programme channel="Sigma" start="20261111105500 +0300" stop="20261111115000 +0300">
     <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261111115000 +0300" stop="20261111124500 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261111124500 +0300" stop="20261111133500 +0300">
-    <title>KITCHEN LAB</title>
-  </programme>
-  <programme channel="Sigma" start="20261111133500 +0300" stop="20261111143500 +0300">
+  <programme channel="Sigma" start="20261111115000 +0300" stop="20261111125000 +0300">
     <title>HAPPY TRAVELLER</title>
   </programme>
-  <programme channel="Sigma" start="20261111143500 +0300" stop="20261111155500 +0300">
-    <title>ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
+  <programme channel="Sigma" start="20261111125000 +0300" stop="20261111150000 +0300">
+    <title>GBL Α.E.K. VS ΠΑΝΑΘΗΝΑΪΚΟΣ AKTOR</title>
   </programme>
-  <programme channel="Sigma" start="20261111155500 +0300" stop="20261111163000 +0300">
+  <programme channel="Sigma" start="20261111150000 +0300" stop="20261111153000 +0300">
     <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20261111163000 +0300" stop="20261111170500 +0300">
+  <programme channel="Sigma" start="20261111153000 +0300" stop="20261111160000 +0300">
     <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20261111170500 +0300" stop="20261111200000 +0300">
+  <programme channel="Sigma" start="20261111160000 +0300" stop="20261111164000 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+  </programme>
+  <programme channel="Sigma" start="20261111164000 +0300" stop="20261111200000 +0300">
     <title>THE VOICE OF GREECE</title>
   </programme>
   <programme channel="Sigma" start="20261111200000 +0300" stop="20261111211000 +0300">
     <title>Τομές στα Γεγονότα</title>
   </programme>
-  <programme channel="Sigma" start="20261111211000 +0300" stop="20261112010000 +0300">
+  <programme channel="Sigma" start="20261111211000 +0300" stop="20261112002000 +0300">
     <title>THE VOICE OF GREECE</title>
   </programme>
-  <programme channel="Sigma" start="20261112010000 +0300" stop="20261112023500 +0300">
+  <programme channel="Sigma" start="20261112002000 +0300" stop="20261112013000 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261112023500 +0300" stop="20261112034500 +0300">
+  <programme channel="Sigma" start="20261112013000 +0300" stop="20261112023500 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261112034500 +0300" stop="20261112044000 +0300">
-    <title>HAPPY TRAVELLER</title>
+  <programme channel="Sigma" start="20261112023500 +0300" stop="20261112034000 +0300">
+    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
   </programme>
-  <programme channel="Sigma" start="20261112044000 +0300" stop="20261112052500 +0300">
+  <programme channel="Sigma" start="20261112034000 +0300" stop="20261112042500 +0300">
     <title>ΚΑΤΑ ΛΑΘΟΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261112052500 +0300" stop="20261112055000 +0300">
+  <programme channel="Sigma" start="20261112042500 +0300" stop="20261112050500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261112055000 +0300" stop="20261112063000 +0300">
+  <programme channel="Sigma" start="20261112050500 +0300" stop="20261112055000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261112063000 +0300" stop="20261112070000 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
+  <programme channel="Sigma" start="20261112055000 +0300" stop="20261112064000 +0300">
+    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261112070000 +0300" stop="20261112072500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
+  <programme channel="Sigma" start="20261112064000 +0300" stop="20261112090300 +0300">
+    <title>Πρωτοσέλιδο</title>
   </programme>
-  <programme channel="Sigma" start="20261112072500 +0300" stop="20261112100000 +0300">
-    <title>ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
+  <programme channel="Sigma" start="20261112090300 +0300" stop="20261112101000 +0300">
+    <title>Ήρθε κι έδεσε</title>
   </programme>
-  <programme channel="Sigma" start="20261112100000 +0300" stop="20261112105500 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20261112105500 +0300" stop="20261112115000 +0300">
+  <programme channel="Sigma" start="20261112101000 +0300" stop="20261112110000 +0300">
     <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261112115000 +0300" stop="20261112125000 +0300">
-    <title>HAPPY TRAVELLER</title>
+  <programme channel="Sigma" start="20261112110000 +0300" stop="20261112133000 +0300">
+    <title>Μεσημέρι και Κάτι</title>
   </programme>
-  <programme channel="Sigma" start="20261112125000 +0300" stop="20261112150000 +0300">
-    <title>GBL Α.E.K. VS ΠΑΝΑΘΗΝΑΪΚΟΣ AKTOR</title>
+  <programme channel="Sigma" start="20261112133000 +0300" stop="20261112145500 +0300">
+    <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261112150000 +0300" stop="20261112153000 +0300">
+  <programme channel="Sigma" start="20261112145500 +0300" stop="20261112181000 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261112181000 +0300" stop="20261112190000 +0300">
     <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20261112153000 +0300" stop="20261112160000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261112160000 +0300" stop="20261112164000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261112164000 +0300" stop="20261112200000 +0300">
-    <title>THE VOICE OF GREECE</title>
+  <programme channel="Sigma" start="20261112190000 +0300" stop="20261112200000 +0300">
+    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
   </programme>
   <programme channel="Sigma" start="20261112200000 +0300" stop="20261112211000 +0300">
     <title>Τομές στα Γεγονότα</title>
   </programme>
-  <programme channel="Sigma" start="20261112211000 +0300" stop="20261113002000 +0300">
-    <title>THE VOICE OF GREECE</title>
-  </programme>
-  <programme channel="Sigma" start="20261113002000 +0300" stop="20261113013000 +0300">
+  <programme channel="Sigma" start="20261112211000 +0300" stop="20261112223000 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261113013000 +0300" stop="20261113023500 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
+  <programme channel="Sigma" start="20261112223000 +0300" stop="20261112232000 +0300">
+    <title>ΤΟΤΕ ΚΑΙ ΤΩΡΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261113023500 +0300" stop="20261113034000 +0300">
-    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
+  <programme channel="Sigma" start="20261112232000 +0300" stop="20261113010000 +0300">
+    <title>KITCHEN</title>
   </programme>
-  <programme channel="Sigma" start="20261113034000 +0300" stop="20261113042500 +0300">
-    <title>ΚΑΤΑ ΛΑΘΟΣ</title>
+  <programme channel="Sigma" start="20261113010000 +0300" stop="20261113013500 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20261113042500 +0300" stop="20261113050500 +0300">
+  <programme channel="Sigma" start="20261113013500 +0300" stop="20261113042500 +0300">
+    <title>STUDIO ΣΤΙΣ 3</title>
+  </programme>
+  <programme channel="Sigma" start="20261113042500 +0300" stop="20261113052000 +0300">
+    <title>ΓΑΛΑΤΕΙΑ</title>
+  </programme>
+  <programme channel="Sigma" start="20261113052000 +0300" stop="20261113055500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261113050500 +0300" stop="20261113055000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261113055000 +0300" stop="20261113064000 +0300">
+  <programme channel="Sigma" start="20261113055500 +0300" stop="20261113064000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
   <programme channel="Sigma" start="20261113064000 +0300" stop="20261113090300 +0300">
@@ -374,8 +299,11 @@
   <programme channel="Sigma" start="20261113110000 +0300" stop="20261113133000 +0300">
     <title>Μεσημέρι και Κάτι</title>
   </programme>
-  <programme channel="Sigma" start="20261113133000 +0300" stop="20261113145500 +0300">
+  <programme channel="Sigma" start="20261113133000 +0300" stop="20261113142000 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
+  </programme>
+  <programme channel="Sigma" start="20261113142000 +0300" stop="20261113145500 +0300">
+    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
   <programme channel="Sigma" start="20261113145500 +0300" stop="20261113181000 +0300">
     <title>STUDIO ΣΤΙΣ 3</title>
@@ -392,76 +320,22 @@
   <programme channel="Sigma" start="20261113211000 +0300" stop="20261113223000 +0300">
     <title>ΜΠΛΕ ΩΡΕΣ</title>
   </programme>
-  <programme channel="Sigma" start="20261113223000 +0300" stop="20261113232000 +0300">
-    <title>ΤΟΤΕ ΚΑΙ ΤΩΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261113232000 +0300" stop="20261114010000 +0300">
-    <title>KITCHEN</title>
-  </programme>
-  <programme channel="Sigma" start="20261114010000 +0300" stop="20261114013500 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114013500 +0300" stop="20261114042500 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20261114042500 +0300" stop="20261114052000 +0300">
-    <title>ΓΑΛΑΤΕΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114052000 +0300" stop="20261114055500 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114055500 +0300" stop="20261114064000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114064000 +0300" stop="20261114090300 +0300">
-    <title>Πρωτοσέλιδο</title>
-  </programme>
-  <programme channel="Sigma" start="20261114090300 +0300" stop="20261114101000 +0300">
-    <title>Ήρθε κι έδεσε</title>
-  </programme>
-  <programme channel="Sigma" start="20261114101000 +0300" stop="20261114110000 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114110000 +0300" stop="20261114133000 +0300">
-    <title>Μεσημέρι και Κάτι</title>
-  </programme>
-  <programme channel="Sigma" start="20261114133000 +0300" stop="20261114142000 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114142000 +0300" stop="20261114145500 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114145500 +0300" stop="20261114181000 +0300">
-    <title>STUDIO ΣΤΙΣ 3</title>
-  </programme>
-  <programme channel="Sigma" start="20261114181000 +0300" stop="20261114190000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114190000 +0300" stop="20261114200000 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114200000 +0300" stop="20261114211000 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20261114211000 +0300" stop="20261114223000 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261114223000 +0300" stop="20261115002000 +0300">
+  <programme channel="Sigma" start="20261113223000 +0300" stop="20261114002000 +0300">
     <title>COLD SOULS</title>
   </programme>
-  <programme channel="Sigma" start="20261115002000 +0300" stop="20261115005500 +0300">
+  <programme channel="Sigma" start="20261114002000 +0300" stop="20261114005500 +0300">
     <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
   </programme>
-  <programme channel="Sigma" start="20261115005500 +0300" stop="20261115034500 +0300">
+  <programme channel="Sigma" start="20261114005500 +0300" stop="20261114034500 +0300">
     <title>STUDIO ΣΤΙΣ 3</title>
   </programme>
-  <programme channel="Sigma" start="20261115034500 +0300" stop="20261115044000 +0300">
+  <programme channel="Sigma" start="20261114034500 +0300" stop="20261114044000 +0300">
     <title>ΓΑΛΑΤΕΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261115044000 +0300" stop="20261115052000 +0300">
+  <programme channel="Sigma" start="20261114044000 +0300" stop="20261114052000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
-  <programme channel="Sigma" start="20261115052000 +0300" stop="20261115235959 +0300">
+  <programme channel="Sigma" start="20261114052000 +0300" stop="20261114235959 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
 </tv>
