@@ -2,63 +2,6 @@
 <tv generator-info-name="CyprusEPG">
   <channel id="Sigma"><display-name>Sigma TV</display-name></channel>
   <channel id="ANT1"><display-name>ANT1 Cyprus</display-name></channel>
-  <programme channel="Sigma" start="20261115055000 +0300" stop="20261115063000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115063000 +0300" stop="20261115070000 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115070000 +0300" stop="20261115072500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115072500 +0300" stop="20261115100000 +0300">
-    <title>ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115100000 +0300" stop="20261115105500 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115105500 +0300" stop="20261115120000 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115120000 +0300" stop="20261115125000 +0300">
-    <title>KITCHEN LAB</title>
-  </programme>
-  <programme channel="Sigma" start="20261115125000 +0300" stop="20261115135000 +0300">
-    <title>HAPPY TRAVELLER</title>
-  </programme>
-  <programme channel="Sigma" start="20261115135000 +0300" stop="20261115172000 +0300">
-    <title>THE VOICE OF GREECE</title>
-  </programme>
-  <programme channel="Sigma" start="20261115172000 +0300" stop="20261115193000 +0300">
-    <title>GBL ΑΡΗΣ VS ΟΛΥΜΠΙΑΚΟΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115193000 +0300" stop="20261115200000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261115200000 +0300" stop="20261115211000 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20261115211000 +0300" stop="20261116002000 +0300">
-    <title>THE VOICE OF GREECE</title>
-  </programme>
-  <programme channel="Sigma" start="20261116002000 +0300" stop="20261116013000 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261116013000 +0300" stop="20261116023000 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261116023000 +0300" stop="20261116034000 +0300">
-    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
-  </programme>
-  <programme channel="Sigma" start="20261116034000 +0300" stop="20261116041500 +0300">
-    <title>ΚΑΤΑ ΛΑΘΟΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261116041500 +0300" stop="20261116044500 +0300">
-    <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261116044500 +0300" stop="20261116052000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
   <programme channel="Sigma" start="20261116052000 +0300" stop="20261116055500 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
@@ -161,64 +104,7 @@
   <programme channel="Sigma" start="20261118043000 +0300" stop="20261118052500 +0300">
     <title>ΓΑΛΑΤΕΙΑ</title>
   </programme>
-  <programme channel="Sigma" start="20261118052500 +0300" stop="20261118055000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118055000 +0300" stop="20261118063000 +0300">
-    <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118063000 +0300" stop="20261118070000 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118070000 +0300" stop="20261118072500 +0300">
-    <title>ΣΤΟ ΧΩΡΚΟΝ ΜΑΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118072500 +0300" stop="20261118100000 +0300">
-    <title>ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118100000 +0300" stop="20261118105500 +0300">
-    <title>ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118105500 +0300" stop="20261118120000 +0300">
-    <title>ΑΝΤΩΝΙΟΣ ΚΑΙ ΚΛΕΟΠΑΤΡΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118120000 +0300" stop="20261118125000 +0300">
-    <title>KITCHEN LAB</title>
-  </programme>
-  <programme channel="Sigma" start="20261118125000 +0300" stop="20261118135000 +0300">
-    <title>HAPPY TRAVELLER</title>
-  </programme>
-  <programme channel="Sigma" start="20261118135000 +0300" stop="20261118172000 +0300">
-    <title>THE VOICE OF GREECE</title>
-  </programme>
-  <programme channel="Sigma" start="20261118172000 +0300" stop="20261118193000 +0300">
-    <title>GBL ΑΡΗΣ VS ΟΛΥΜΠΙΑΚΟΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118193000 +0300" stop="20261118200000 +0300">
-    <title>ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
-  </programme>
-  <programme channel="Sigma" start="20261118200000 +0300" stop="20261118211000 +0300">
-    <title>Τομές στα Γεγονότα</title>
-  </programme>
-  <programme channel="Sigma" start="20261118211000 +0300" stop="20261119002000 +0300">
-    <title>THE VOICE OF GREECE</title>
-  </programme>
-  <programme channel="Sigma" start="20261119002000 +0300" stop="20261119013000 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261119013000 +0300" stop="20261119023000 +0300">
-    <title>ΜΠΛΕ ΩΡΕΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261119023000 +0300" stop="20261119034000 +0300">
-    <title>ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
-  </programme>
-  <programme channel="Sigma" start="20261119034000 +0300" stop="20261119041500 +0300">
-    <title>ΚΑΤΑ ΛΑΘΟΣ</title>
-  </programme>
-  <programme channel="Sigma" start="20261119041500 +0300" stop="20261119044500 +0300">
-    <title>ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
-  </programme>
-  <programme channel="Sigma" start="20261119044500 +0300" stop="20261119052000 +0300">
+  <programme channel="Sigma" start="20261118052500 +0300" stop="20261119052000 +0300">
     <title>ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
   </programme>
   <programme channel="Sigma" start="20261119052000 +0300" stop="20261119055500 +0300">
